@@ -1,6 +1,6 @@
 # About me
 - Hi, I'm Štěpán Václav Patejdl, or just P!XL (alias DEADP!XL, svp_dp)
-- 18 years old
+- 19 years old
 - Started programming in c# during the pandemic
 - I'm looking forward to learn more programming, as I want to be a something-C-related programmer one day
 
