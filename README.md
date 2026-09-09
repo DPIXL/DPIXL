@@ -7,6 +7,7 @@
 
 ## My Projects
 ### Released
+- nas-seznam-prani : An ASP .NET MVC web app for personal family wishlist purposes.
 - WWHCS / WWHCS-console : A .NET windows registry editor, changing the color of your window header. It can set different colors for either active or inactive.
 ### Old
 - CubeLab : My first ever project, a 2D logic/rage platformer, programmed in C# with the Unity Engine. It isn't very well made, and only the scripts are here. Dont look at it please. Never finished it sadly, but I am planning to remake it with my girlfriend soon.
